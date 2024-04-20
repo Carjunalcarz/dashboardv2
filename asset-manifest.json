@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/dashboardv2/dashboard/static/js/main.f40ee0d0.chunk.js",
-    "main.js.map": "/dashboardv2/dashboard/static/js/main.f40ee0d0.chunk.js.map",
-    "runtime~main.js": "/dashboardv2/dashboard/static/js/runtime~main.74150256.js",
-    "runtime~main.js.map": "/dashboardv2/dashboard/static/js/runtime~main.74150256.js.map",
-    "static/css/2.5990a447.chunk.css": "/dashboardv2/dashboard/static/css/2.5990a447.chunk.css",
-    "static/js/2.679de677.chunk.js": "/dashboardv2/dashboard/static/js/2.679de677.chunk.js",
-    "static/js/2.679de677.chunk.js.map": "/dashboardv2/dashboard/static/js/2.679de677.chunk.js.map",
-    "index.html": "/dashboardv2/dashboard/index.html",
-    "precache-manifest.2551711255424539d89a64b608659da4.js": "/dashboardv2/dashboard/precache-manifest.2551711255424539d89a64b608659da4.js",
-    "service-worker.js": "/dashboardv2/dashboard/service-worker.js",
-    "static/css/2.5990a447.chunk.css.map": "/dashboardv2/dashboard/static/css/2.5990a447.chunk.css.map",
-    "static/media/all.min.css": "/dashboardv2/dashboard/static/media/fa-solid-900.e8a427e1.woff2",
-    "static/media/github.svg": "/dashboardv2/dashboard/static/media/github.4ffd4fe7.svg",
-    "static/media/google.svg": "/dashboardv2/dashboard/static/media/google.87be59a1.svg",
-    "static/media/profile.png": "/dashboardv2/dashboard/static/media/profile.296814ee.png",
-    "static/media/register_bg_2.png": "/dashboardv2/dashboard/static/media/register_bg_2.2fee0b50.png"
+    "main.js": "./static/js/main.f40ee0d0.chunk.js",
+    "main.js.map": "./static/js/main.f40ee0d0.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/css/2.a25bafd5.chunk.css": "./static/css/2.a25bafd5.chunk.css",
+    "static/js/2.679de677.chunk.js": "./static/js/2.679de677.chunk.js",
+    "static/js/2.679de677.chunk.js.map": "./static/js/2.679de677.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.82d5ecab0b9b3e4058b559d4bd1e8cf3.js": "./precache-manifest.82d5ecab0b9b3e4058b559d4bd1e8cf3.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.a25bafd5.chunk.css.map": "./static/css/2.a25bafd5.chunk.css.map",
+    "static/media/all.min.css": "./static/media/fa-solid-900.e8a427e1.woff2",
+    "static/media/github.svg": "./static/media/github.4ffd4fe7.svg",
+    "static/media/google.svg": "./static/media/google.87be59a1.svg",
+    "static/media/profile.png": "./static/media/profile.296814ee.png",
+    "static/media/register_bg_2.png": "./static/media/register_bg_2.2fee0b50.png"
   }
 }
