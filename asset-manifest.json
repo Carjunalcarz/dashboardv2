@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/dashboardv2/static/js/main.f7e1fe47.chunk.js",
-    "main.js.map": "/dashboardv2/static/js/main.f7e1fe47.chunk.js.map",
-    "runtime~main.js": "/dashboardv2/static/js/runtime~main.fadeef18.js",
-    "runtime~main.js.map": "/dashboardv2/static/js/runtime~main.fadeef18.js.map",
-    "static/css/2.4fba3fd2.chunk.css": "/dashboardv2/static/css/2.4fba3fd2.chunk.css",
-    "static/js/2.679de677.chunk.js": "/dashboardv2/static/js/2.679de677.chunk.js",
-    "static/js/2.679de677.chunk.js.map": "/dashboardv2/static/js/2.679de677.chunk.js.map",
-    "index.html": "/dashboardv2/index.html",
-    "precache-manifest.796d276f757a757f55f48e247f993924.js": "/dashboardv2/precache-manifest.796d276f757a757f55f48e247f993924.js",
-    "service-worker.js": "/dashboardv2/service-worker.js",
-    "static/css/2.4fba3fd2.chunk.css.map": "/dashboardv2/static/css/2.4fba3fd2.chunk.css.map",
-    "static/media/all.min.css": "/dashboardv2/static/media/fa-solid-900.e8a427e1.woff2",
-    "static/media/github.svg": "/dashboardv2/static/media/github.4ffd4fe7.svg",
-    "static/media/google.svg": "/dashboardv2/static/media/google.87be59a1.svg",
-    "static/media/profile.png": "/dashboardv2/static/media/profile.296814ee.png",
-    "static/media/register_bg_2.png": "/dashboardv2/static/media/register_bg_2.2fee0b50.png"
+    "main.js": "/static/js/main.f7e1fe47.chunk.js",
+    "main.js.map": "/static/js/main.f7e1fe47.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.0ce7debf.chunk.css": "/static/css/2.0ce7debf.chunk.css",
+    "static/js/2.679de677.chunk.js": "/static/js/2.679de677.chunk.js",
+    "static/js/2.679de677.chunk.js.map": "/static/js/2.679de677.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ae69cc72013195eaf6e327fdfd576032.js": "/precache-manifest.ae69cc72013195eaf6e327fdfd576032.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.0ce7debf.chunk.css.map": "/static/css/2.0ce7debf.chunk.css.map",
+    "static/media/all.min.css": "/static/media/fa-solid-900.e8a427e1.woff2",
+    "static/media/github.svg": "/static/media/github.4ffd4fe7.svg",
+    "static/media/google.svg": "/static/media/google.87be59a1.svg",
+    "static/media/profile.png": "/static/media/profile.296814ee.png",
+    "static/media/register_bg_2.png": "/static/media/register_bg_2.2fee0b50.png"
   }
 }
