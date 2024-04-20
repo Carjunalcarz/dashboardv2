@@ -1,6 +1,6 @@
 import React from "react";
 import { createPopper } from "@popperjs/core";
-import teamImage from "../assets/img/profile.png"; // Relative path to the image file
+import teamImage from "./../assets/img/profile.png"; // Relative path to the image file
 
 const UserDropdown = () => {
   // dropdown props
