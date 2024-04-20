@@ -20,7 +20,7 @@ gulp.task("licenses", async function () {
     Your license text here
     -->`)
     )
-    .pipe(gulp.dest("./", { overwrite: true }));
+    .pipe(gulp.dest("./build", { overwrite: true }));
 
   // this is to add Creative Tim licenses in the production mode for the minified css
   await gulp
@@ -31,9 +31,5 @@ gulp.task("licenses", async function () {
     */`)
     )
 
-    .pipe(
-      gulp.dest("https://carjunalcarz.github.io/dashboardv2", {
-        overwrite: true,
-      })
-    );
+    .pipe(gulp.dest("./", { overwrite: true }));
 });
