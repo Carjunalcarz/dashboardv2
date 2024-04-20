@@ -1,5 +1,7 @@
 import React from "react";
-
+import logo1 from "../assets/img/google.svg";
+import logo2 from "../assets/img/github.svg";
+import bg_register from "../assets/img/register_bg_2.png";
 import Navbar from "components/Navbar.js";
 import FooterSmall from "components/FooterSmall.js";
 
@@ -12,8 +14,7 @@ export default function Login() {
           <div
             className="absolute top-0 w-full h-full bg-gray-900"
             style={{
-              backgroundImage:
-                "url(" + require("assets/img/register_bg_2.png").default + ")",
+              backgroundImage: `url(${bg_register})`, // use bg_register as the background image
               backgroundSize: "100%",
               backgroundRepeat: "no-repeat",
             }}
@@ -34,23 +35,16 @@ export default function Login() {
                         type="button"
                         style={{ transition: "all .15s ease" }}
                       >
-                        <img
-                          alt="..."
-                          className="w-5 mr-1"
-                          src={require("assets/img/github.svg").default}
-                        />
+                        <img alt="..." className="w-5 mr-1" src={logo2} />
                         Github
                       </button>
+
                       <button
                         className="bg-white active:bg-gray-100 text-gray-800 font-normal px-4 py-2 rounded outline-none focus:outline-none mr-1 mb-1 uppercase shadow hover:shadow-md inline-flex items-center font-bold text-xs"
                         type="button"
                         style={{ transition: "all .15s ease" }}
                       >
-                        <img
-                          alt="..."
-                          className="w-5 mr-1"
-                          src={require("assets/img/google.svg").default}
-                        />
+                        <img alt="..." className="w-5 mr-1" src={logo1} />
                         Google
                       </button>
                     </div>

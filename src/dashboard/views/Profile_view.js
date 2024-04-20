@@ -1,7 +1,6 @@
 import React from "react";
 
 import Navbar from "../components/Navbar.js";
-import Sidebar from "../components/Sidebar.js";
 
 import Profile from "../profile/src/views/Profile.js";
 
